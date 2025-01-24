@@ -105,7 +105,7 @@ data() {
         { id: 2, Nombre: "Anillo Curva", Precio: 800, imagen: "img/anilloCurva.webp" , cantidad: 1},
         { id: 3, Nombre: "Anillo Fino", Precio: 1300, imagen: "img/anilloFino.webp" , cantidad: 1},
         { id: 4, Nombre: "Anillo Grande", Precio: 600, imagen: "img/anilloGrande.webp" , cantidad: 1},
-        { id: 5, Nombre: "Anillo grueso", Precio: 1800, imagen: "img/anillogrueso.webp", cantidad: 1},
+        { id: 5, Nombre: "Anillo grueso", Precio: 1800, imagen: "img/anilloGrueso.webp", cantidad: 1},
         { id: 6, Nombre: "Anillo Llave", Precio: 2000, imagen: "img/anilloLlave.webp", cantidad: 1},
         { id: 7, Nombre: "Anillo Ola", Precio: 1300, imagen: "img/anilloOla.webp" , cantidad: 1},
         { id: 8, Nombre: "Anillo Perla", Precio: 3000, imagen: "img/anilloPerla.webp" , cantidad: 1},
@@ -113,7 +113,7 @@ data() {
         { id: 10, Nombre: "Arito", Precio: 300, imagen: "img/arito.webp", cantidad: 1},
         { id: 11, Nombre: "Arito Flor", Precio: 900, imagen: "img/aritoFlor.webp", cantidad: 1},
         { id: 12, Nombre: "Caballito", Precio: 1250, imagen: "img/caballito.webp", cantidad: 1},
-        { id: 13, Nombre: "collar Trigo", Precio: 2150, imagen: "img/collarTrigo.webp", cantidad: 1},
+        { id: 13, Nombre: "collar Trigo", Precio: 2150, imagen: "img/CollarTrigo.webp", cantidad: 1},
         { id: 14, Nombre: "Pulsera Diamante", Precio: 3000, imagen: "img/diamondPulser.webp" , cantidad: 1},
         { id: 15, Nombre: "Anillo de Oro Simbol", Precio: 2400, imagen: "img/goldenAnilloSimbol.webp", cantidad: 1}
     ],
